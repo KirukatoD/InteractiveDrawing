@@ -1,0 +1,88 @@
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Documents\Новая папка\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Desktop\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_Sopha\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+\\Pushkina\новая папка\Новая папка (2)\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+\\Pushkina\Новая папка\Новая папка (2)\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+C:\Users\S_A_Chernysheva\Documents\intdr\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\bin\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker_MarkupCompile.lref
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\Themes\Generic.baml
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.g.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing_qwerty\ColorPicker2010_src\ColorPicker\obj\Debug\ColorPicker.pdb

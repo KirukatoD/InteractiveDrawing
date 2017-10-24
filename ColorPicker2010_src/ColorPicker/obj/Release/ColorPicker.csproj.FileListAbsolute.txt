@@ -1,0 +1,11 @@
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\bin\Release\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\bin\Release\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\GeneratedInternalTypeHelper.g.cs
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker_MarkupCompile.cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker_MarkupCompile.lref
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\Themes\Generic.baml
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker.g.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker.Properties.Resources.resources
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker.csproj.GenerateResource.Cache
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\InteractiveDrawing\ColorPicker2010_src\ColorPicker\obj\Release\ColorPicker.pdb

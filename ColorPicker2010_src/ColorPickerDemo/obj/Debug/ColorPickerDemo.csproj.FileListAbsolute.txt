@@ -1,0 +1,14 @@
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\bin\Debug\ColorPickerDemo.exe
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\bin\Debug\ColorPickerDemo.pdb
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\bin\Debug\ColorPicker.dll
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\bin\Debug\ColorPicker.pdb
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.csprojResolveAssemblyReference.cache
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\MainWindow.baml
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\MainWindow.g.cs
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\App.g.cs
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo_MarkupCompile.cache
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.g.resources
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.Properties.Resources.resources
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.csproj.GenerateResource.Cache
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.exe
+d:\Ignatiev_I_A_Unity\Projects\.Not My\ColorPicker2010_src\ColorPickerDemo\obj\Debug\ColorPickerDemo.pdb
